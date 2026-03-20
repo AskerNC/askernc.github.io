@@ -1,0 +1,14 @@
+title: Asker Nygaard Christensen
+description: PhD Student, Department of Economics, University of Copenhagen
+url: "https://askernc.github.io"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - cv/
+  - README.md
+  - Gemfile
+  - Gemfile.lock

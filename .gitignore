@@ -1,0 +1,10 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+cv/out_dir/
+cv/*.aux
+cv/*.log
+cv/*.out
+cv/*.synctex.gz
+.DS_Store
+Thumbs.db
