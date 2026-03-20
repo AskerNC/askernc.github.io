@@ -13,5 +13,14 @@
     {{ content }}
   </main>
   {% include footer.html %}
+  <script>
+    document.querySelectorAll('a').forEach(function(a) {
+      var href = a.getAttribute('href') || '';
+      if (href.match(/\.pdf(\?|$)/i) || (href.match(/^https?:\/\//) && !href.includes(location.hostname))) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener');
+      }
+    });
+  </script>
 </body>
 </html>

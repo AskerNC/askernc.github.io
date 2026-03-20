@@ -24,6 +24,7 @@ In August 2024–May 2025, I visited <a href="https://www.michelebelot.com/">Mic
 <div class="profile-links">
   <a href="https://researchprofiles.ku.dk/da/persons/asker-nygaard-christensen/">Department profile</a>
   <a href="https://orcid.org/0000-0002-5939-1427">ORCID</a>
+  <a href="https://github.com/AskerNC">GitHub</a>
 </div>
 
   </div>
