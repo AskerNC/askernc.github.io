@@ -8,7 +8,7 @@ title: Research
 
 <div class="paper">
   <div class="paper-title">Globalisation and the Gender Gap in Mental Well-Being</div>
-  <div class="paper-authors">B. T. Arnarson, A. N. Christensen, B. S. Javorcik and J. R. Munch</div>
+  <div class="paper-authors">B. T. Arnarson, A. N. David, B. S. Javorcik and J. R. Munch</div>
   <div class="paper-venue"><em>Journal of International Economics (published under my (future) married name Asker Nygaard David)</em></div>
   <details>
     <summary>Abstract</summary>
