@@ -15,8 +15,9 @@ title: Research
     <p>Working with business partners in distant countries often requires operating outside standardworking hours, potentially harming workers' mental well-being—especially for women balanc-ing professional and family responsibilities. This hypothesis is investigated using matchedemployer-employee data from Denmark merged with information on workers' use of prescrip-tion antidepressants (AD) and firms' import and export transactions. The analysis exploitsvariation within job spells and controls for both unobservable firm-year heterogeneity and forthe average differential in annual AD use among men and women. The results indicate thata decline in the business hour overlap between a Danish firm and its foreign trading partnersleads to an increased AD use among women relative to men. This effect is economicallymeaningful, largest for college-educated workers under 45 and more pronounced for singlemothers. In addition to the gender effect, workers in occupations requiring establishingrelationships with others are more strongly affected than those in other occupations.</p>
   </details>
   <div class="paper-links">
-    <a href="{{ '/assets/pdf/Globalisation_and_mental_well_being.pdf' | relative_url }}">PDF</a>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0022199626000437">Published version</a>
+    <a href="{{ '/assets/pdf/Globalisation_and_mental_well_being.pdf' | relative_url }}">PDF</a>,
+    <a href="https://www.sciencedirect.com/science/article/pii/S0022199626000437">Published version</a>,
+    <a href="https://data.mendeley.com/preview/9pnfhj998z?a=2797150c-8baa-4aa9-9aee-4d3dcc1cd618">Replication package</a>
   </div>
 </div>
 
