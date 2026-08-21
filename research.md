@@ -24,16 +24,18 @@ title: Research
 ## Working Papers
 
 <div class="paper">
-  <div class="paper-title">Relative Wage Misperceptions and Early Career Job Search</div>
-  <div class="paper-authors">A. N. Christensen, N. A. Harmon, S. Settele and D. Skandalis (2026)</div>
-  <div class="paper-venue">ROCKWOOL Fonden, Study Paper No. 279</div>
+  <div class="paper-title">Perceived Wage Differences and Early Career Job Search Choices</div>
+  <div class="paper-authors">A. N. David, N. A. Harmon, S. Settele and D. Skandalis (2026)</div>
+  <div class="paper-venue">Working paper, August 2026</div>
   <details>
     <summary>Abstract</summary>
-    <p>Misperceptions about the relative wages offered in different jobs may distort job search, especially among young workers entering the labor market. We study this using a survey of early-career job seekers in Denmark linked to administrative data. The survey i) elicits job seekers’ beliefs about typical wages in three jobs that are relevant to them, ii) contains a randomized information treatment revealing actual typical wages, and iii) elicits job seekers’ beliefs about their own potential wages in each job and their planned search behavior. Comparing beliefs about typical wages to administrative data reveals large relative misperceptions. In 80% of cases, the perceived wage gap between two jobs differs from the truth by more than 50%. In two-thirds of cases, job seekers underestimate the true gap, meaning they perceive lower-paying jobs to be overly attractive. Leveraging the information treatment, we show that these misperceptions causally affect search. Receiving information about actual typical wages causes job seekers to update beliefs about their own potential wages, which in turn changes their planned applications: a 1% increase in the perceived wage of one job over another increases the relative likelihood of applying for that job by 4.2%. This affects actual post-survey wages measured in administrative data: since misperceptions mostly inflate the attractiveness of lowerpaying jobs, the information treatment shifts most job seekers to ultimately obtain higher-paying jobs. In a simple discrete choice framework, we estimate that removing relative wage misperceptions would reallocate 9.0% of workers to different jobs and increase wages by 1.2%.</p>
+    <p>Misperceptions about the relative wages offered in different jobs may distort job search, especially at labor market entry. We survey early career job seekers in Denmark and link responses to administrative data. Our survey i) elicits beliefs about typical wages in three relevant jobs, ii) contains a randomized information treatment revealing actual typical wages, and iii) elicits planned search behavior and beliefs about own potential wages. Comparing beliefs about typical wages to administrative data reveals large relative misperceptions. In 80% of cases, the perceived wage gap between two jobs differs from the truth by more than 50%. Using the information treatment, we show that these misperceptions causally affect search intentions and realized post-survey wages in administrative data. Interpreting estimates through a discrete choice model, we find that 9.5% of job applications are misallocated due to wage misperceptions, resulting in the same welfare loss as a 0.8% reduction in all wages.</p>
   </details>
   <div class="paper-links">
-    <a href="https://rockwoolfonden.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/03/RF_Study-paper_279_Relative-Wage-Misperceptions-and-Early-Career-Job-Search_March2026.pdf?download=true">PDF</a>
+    <a href="{{ '/assets/pdf/Occu_choice_intro_202608.pdf' | relative_url }}">PDF</a>
+    <a href="https://rockwoolfonden.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/03/RF_Study-paper_279_Relative-Wage-Misperceptions-and-Early-Career-Job-Search_March2026.pdf?download=true">Earlier version</a>
   </div>
+  <div class="paper-venue">An earlier version was circulated as ROCKWOOL Fonden, Study Paper No. 279, &ldquo;Relative Wage Misperceptions and Early Career Job Search&rdquo; (March 2026), under my previous name Asker Nygaard Christensen.</div>
 </div>
 
 ## Work in Progress
