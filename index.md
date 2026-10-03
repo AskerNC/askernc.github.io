@@ -9,8 +9,8 @@ title: Home
   </div>
   <div>
 
-<p>I am a PhD student at the <a href="https://www.economics.ku.dk/">University of Copenhagen, Department of Economics</a> (2022-2026).<br>
-My supervisors are Daphné Skandalis and Nikolaj Harmon.<br>
+<p>From January 2027, I will be a postdoc at the <a href="https://www.economics.ku.dk/">University of Copenhagen, Department of Economics</a>.<br>
+I received my PhD in Economics from the University of Copenhagen in September 2026, supervised by Daphné Skandalis and Nikolaj Harmon.<br>
 In August 2024–May 2025, I visited Michèle Belot at Cornell University.</p>
 
 <h3>Research interests</h3>
