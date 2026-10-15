@@ -60,3 +60,20 @@ title: Research
     <a href="https://rockwoolfonden.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/09/RFF-Globalisering-automatisering-og-arbejdsmarkedet-BOG-K8-WEB.pdf?download=true">PDF</a>
   </div>
 </div>
+
+## PhD Thesis
+
+<div class="paper">
+  <div class="paper-title">Meandering Through Labour Economics: Mental Well-being, Misperceptions, and Milieu in the Labour Market</div>
+  <div class="paper-authors">A. N. Christensen</div>
+  <div class="paper-venue">Ph.D. Dissertation, Department of Economics, University of Copenhagen, June 2026. Advisors: Nikolaj Arpe Harmon and Daphné Skandalis</div>
+  <details>
+    <summary>Chapters</summary>
+    <p>1. Globalisation and the Gender Gap in Mental Well-Being<br>
+    2. Perceived Wage Differences and Early Career Job Search Choices<br>
+    3. Parental Transmission of Jobs and Non-Wage Amenities</p>
+  </details>
+  <div class="paper-links">
+    <a href="{{ '/assets/pdf/thesis_full.pdf' | relative_url }}">PDF</a>
+  </div>
+</div>
