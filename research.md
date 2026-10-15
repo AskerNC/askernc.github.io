@@ -66,7 +66,7 @@ title: Research
 <div class="paper">
   <div class="paper-title">Meandering Through Labour Economics: Mental Well-being, Misperceptions, and Milieu in the Labour Market</div>
   <div class="paper-authors">A. N. Christensen</div>
-  <div class="paper-venue">Ph.D. Dissertation, Department of Economics, University of Copenhagen, June 2026. Advisors: Nikolaj Arpe Harmon and Daphné Skandalis</div>
+  <div class="paper-venue">Ph.D. Dissertation, Department of Economics, University of Copenhagen, June 2026. Advisors: Nikolaj Arpe Harmon and Daphné Skandalis. Committee: Michèle Belot, Oskar Nordström Skans and Thomas Høgholm Jørgensen</div>
   <details>
     <summary>Chapters</summary>
     <p>1. Globalisation and the Gender Gap in Mental Well-Being<br>
