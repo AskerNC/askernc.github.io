@@ -5,7 +5,7 @@ title: Home
 
 <div class="home-grid">
   <div>
-    <img src="{{ '/picture/image.png' | relative_url }}" alt="Asker Nygaard Christensen" class="profile-photo">
+    <img src="{{ '/picture/profile.jpg' | relative_url }}" alt="Asker Nygaard Christensen" class="profile-photo">
   </div>
   <div>
 
